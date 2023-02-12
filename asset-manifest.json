@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ejercicio-paises/static/css/main.0f32843d.css",
-    "main.js": "/ejercicio-paises/static/js/main.0fec41b1.js",
+    "main.css": "/ejercicio-paises/static/css/main.60d7a2f5.css",
+    "main.js": "/ejercicio-paises/static/js/main.d40fadc8.js",
     "index.html": "/ejercicio-paises/index.html",
-    "main.0f32843d.css.map": "/ejercicio-paises/static/css/main.0f32843d.css.map",
-    "main.0fec41b1.js.map": "/ejercicio-paises/static/js/main.0fec41b1.js.map"
+    "main.60d7a2f5.css.map": "/ejercicio-paises/static/css/main.60d7a2f5.css.map",
+    "main.d40fadc8.js.map": "/ejercicio-paises/static/js/main.d40fadc8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f32843d.css",
-    "static/js/main.0fec41b1.js"
+    "static/css/main.60d7a2f5.css",
+    "static/js/main.d40fadc8.js"
   ]
 }
